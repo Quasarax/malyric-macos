@@ -3,7 +3,7 @@
 Professional vocal practice app with precision playback, synced lyrics, and singer-focused tools.
 
 <p align="center">
-	<img src="V1/website/assets/app-icon.png" alt="MALYRIC app icon" width="144" height="144" />
+	<img src="assets/app-icon.png" alt="MALYRIC app icon" width="144" height="144" />
 </p>
 
 ![Status](https://img.shields.io/badge/status-alpha_test-f2b84b)
@@ -46,8 +46,7 @@ To get **Full Access**, contact:
 
 The public release format is **DMG**.
 
-- Landing page: [V1/website](V1/website)
-- DMG file used by the landing page: [V1/website/releases/MusicPlayr.dmg](V1/website/releases/MusicPlayr.dmg)
+- DMG file used by the landing page: [V1/website/releases/MusicPlayr.dmg](releases/MusicPlayr.dmg)
 
 ## Public Repository Notice
 
