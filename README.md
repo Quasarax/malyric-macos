@@ -1,67 +1,18 @@
-# MALYRIC for macOS
+# MALYRIC Landing (GitHub Pages)
 
-Professional vocal practice app with precision playback, synced lyrics, and singer-focused tools.
+This folder contains a one-page landing site for MALYRIC.
 
-<p align="center">
-	<img src="V1/website/assets/app-icon.png" alt="MALYRIC app icon" width="144" height="144" />
-</p>
+## Quick publish on GitHub Pages
 
-![Status](https://img.shields.io/badge/status-alpha_test-f2b84b)
-![Platform](https://img.shields.io/badge/platform-macOS-0f2f66)
-![Release](https://img.shields.io/badge/release-DMG-1d7a45)
-![Access](https://img.shields.io/badge/access-free_trial-2d6cdf)
-![License](https://img.shields.io/badge/license-Proprietary-6b5bd2)
+1. Push this folder content to your Pages branch (for example: `gh-pages` or `main`).
+2. In repository settings, enable **GitHub Pages** and select the branch/folder.
+3. Put your macOS DMG file at `releases/MusicPlayr.dmg`.
+4. Open `script.js` and update `release.url` if you want to use a GitHub Releases direct link.
 
-## About
+## Free trial + full access note
 
-MALYRIC is built for vocalists who want a dedicated rehearsal environment, not just another media player.
+The page already mentions:
+- Free trial availability.
+- Full access purchase by contacting your team.
 
-The app combines core playback control with lyric workflow and voice practice tools so singers can train faster and more consistently.
-
-## Current Stage
-
-MALYRIC is currently in **Alpha Test**.
-
-Core features are usable now, and we are actively polishing performance, UX details, and workflow depth.
-
-## Main Features
-
-- Pitch and tempo control for rehearsal.
-- Synced lyrics support with fast navigation.
-- Built-in metronome and vocal warmup routines.
-- Voice recording for self-review.
-- Vocal range analysis tools.
-- Clean, focused interface for long practice sessions.
-
-## Free Trial
-
-MALYRIC includes a **Free Trial**.
-
-To get **Full Access**, contact:
-
-- shishkin1037.a@gmail.com
-- klabukovk5@gmail.com
-
-## Download (macOS)
-
-The public release format is **DMG**.
-
-- Landing page: [V1/website](V1/website)
-- DMG file used by the landing page: [V1/website/releases/MusicPlayr.dmg](V1/website/releases/MusicPlayr.dmg)
-
-## Public Repository Notice
-
-This repository is currently used as a **public product page and release entry point**.
-
-Application source code is not published publicly at this stage.
-
-## Roadmap
-
-- Grow alpha tester group.
-- Move to beta after stability and UX polishing.
-- Launch full commercial access.
-
-## Contact
-
-- Full Access and partnerships: shishkin1037.a@gmail.com
-- Support and product questions: klabukovk5@gmail.com
+You can update contact email in `index.html` (`mailto:` link).
