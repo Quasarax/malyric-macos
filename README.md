@@ -4,13 +4,17 @@ Professional vocal practice app with precision playback, synced lyrics, and sing
 
 <p align="center">
 	<img src="assets/app-icon.png" alt="MALYRIC app icon" width="144" height="144" />
+	
+<p align="center">
+	
+	![Status](https://img.shields.io/badge/status-alpha_test-f2b84b)
+	![Platform](https://img.shields.io/badge/platform-macOS-0f2f66)
+	![Release](https://img.shields.io/badge/release-DMG-1d7a45)
+	![Access](https://img.shields.io/badge/access-free_trial-2d6cdf)
+	![License](https://img.shields.io/badge/license-Proprietary-6b5bd2)
+	
 </p>
 
-![Status](https://img.shields.io/badge/status-alpha_test-f2b84b)
-![Platform](https://img.shields.io/badge/platform-macOS-0f2f66)
-![Release](https://img.shields.io/badge/release-DMG-1d7a45)
-![Access](https://img.shields.io/badge/access-free_trial-2d6cdf)
-![License](https://img.shields.io/badge/license-Proprietary-6b5bd2)
 
 ## About
 
